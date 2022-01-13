@@ -1,6 +1,7 @@
 <h1># ARDUINO-NANO</h1>
-<h4>Perfectly working C program code for Arduino Nano, for my mini IOT project: NON-CONTACT THERMOMETER, using thermopile sensor and thermistor. 
-to make this project i have used the following components:</h4>
+<h4>Perfectly working C program code for Arduino Nano, for my mini IOT project: NON-CONTACT THERMOMETER, using thermopile sensor and thermistor. <br>
+  
+<br>To make this project i have used the following components:</h4>
 <h6>• MLX90614ESF IR Temperature Sensor<br>
 • APDS-9960 Proximity sensor<br>
 • Arduino Nano<br>
